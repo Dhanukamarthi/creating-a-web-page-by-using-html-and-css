@@ -1,0 +1,18 @@
+.class{
+    color: aquamarine;
+    font-size: 50px;
+    text-decoration: azure;
+}
+.still{
+    color: blue;
+    text-align: justify;
+}
+div:hover{
+    background-color: deeppink;
+    
+}
+.style{
+    color: blue;
+    text-align: center;
+}
+   
